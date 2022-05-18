@@ -1,0 +1,22 @@
+{
+  "name": "commandline_rpg",
+  "version": "1.0.0",
+  "description": "RPG game ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shorty008/commandline_rpg.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/shorty008/commandline_rpg/issues"
+  },
+  "homepage": "https://github.com/shorty008/commandline_rpg#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
